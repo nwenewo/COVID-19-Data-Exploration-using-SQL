@@ -1,5 +1,5 @@
 # 🦠 COVID-19 Data Exploration using SQL
-![](Covid19.jpg)
+![COVID-19-Data-Exploration-using-SQL](covid19.jpg)
 
 ## 📌 Project Overview
 
