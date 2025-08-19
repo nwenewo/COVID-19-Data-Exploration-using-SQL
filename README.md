@@ -73,4 +73,4 @@ This project focuses on **exploratory data analysis (EDA) using SQL** on global 
 
 ## 📂 Dataset Source
 
-* COVID-19 data sourced from **Our World in Data (OWID)**.
+* COVID-19 data sourced from [Our world in data](https://ourworldindata.org/covid-deaths)
